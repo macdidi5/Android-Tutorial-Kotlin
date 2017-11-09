@@ -60,4 +60,5 @@ Android Tutorial using Kotlin系列有六堂課、二十章：
 	*	[(3) Material Design - Shared Element 與 Floating Action Button](http://www.codedata.com.tw/mobile/android-6-tutorial-6-3/)
 
 ===============
-http://www.codedata.com.tw/author/michael
+
+[http://www.codedata.com.tw/java/michael/](http://www.codedata.com.tw/java/michael/)
