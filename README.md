@@ -33,31 +33,31 @@ Android Tutorial using Kotlin是為了可以快速學習與認識Android應用�
 Android Tutorial using Kotlin系列有六堂課、二十章：
 
 *	Android Tutorial 第一堂
-	*	[（1）西遊記裡的那隻潑猴](http://www.codedata.com.tw/mobile/android-6-tutorial-1-1/)
-	*	[（2）準備Android Studio開發環境](http://www.codedata.com.tw/mobile/android-6-tutorial-1-2/)
-	*	[（3）開始設計Android應用程式](http://www.codedata.com.tw/mobile/android-6-tutorial-1-3/)
-	*	[（4）開發Android應用程式的準備工作](http://www.codedata.com.tw/mobile/android-6-tutorial-1-4/)
+	*	[（1）西遊記裡的那隻潑猴](http://www.codedata.com.tw/mobile/atk0101/)
+	*	[（2）準備Android Studio開發環境](http://www.codedata.com.tw/mobile/atk0102/)
+	*	（3）開始設計Android應用程式
+	*	（4）開發Android應用程式的準備工作
 *	Android Tutorial 第二堂
-	*	[（1）建立應用程式需要的資源](http://www.codedata.com.tw/mobile/android-6-tutorial-2-1/)
-	*	[（2）設計應用程式使用者介面](http://www.codedata.com.tw/mobile/android-6-tutorial-2-2/)
-	*	[（3）應用程式與使用者的互動](http://www.codedata.com.tw/mobile/android-6-tutorial-2-3/)
-	*	[（4）建立與使用Activity元件](http://www.codedata.com.tw/mobile/android-6-tutorial-2-4/)
+	*	（1）建立應用程式需要的資源
+	*	（2）設計應用程式使用者介面
+	*	（3）應用程式與使用者的互動
+	*	（4）建立與使用Activity元件
 *	Android Tutorial 第三堂
-	*	[（1）為ListView元件建立自定畫面](http://www.codedata.com.tw/mobile/android-6-tutorial-3-1/)
-	*	[（2）儲存與讀取應用程式資訊](http://www.codedata.com.tw/mobile/android-6-tutorial-3-2/)
-	*	[（3）使用Android內建的SQLite資料庫](http://www.codedata.com.tw/mobile/android-6-tutorial-3-3/)
+	*	（1）為ListView元件建立自定畫面
+	*	（2）儲存與讀取應用程式資訊
+	*	（3）使用Android內建的SQLite資料庫
 *	Android Tutorial 第四堂
-	*	[（1）使用照相機與麥克風](http://www.codedata.com.tw/mobile/android-6-tutorial-4-1/)
-	*	[（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-6-tutorial-4-2/)
-	*	[（3）讀取裝置目前的位置 - Google Services Location](http://www.codedata.com.tw/mobile/android-6-tutorial-4-3/)
+	*	（1）使用照相機與麥克風
+	*	（2）設計地圖應用程式 - Google Maps Android API v2
+	*	（3）讀取裝置目前的位置 - Google Services Location
 *	Android Tutorial 第五堂
-	*	[(1) 建立廣播接收元件 - BroadcastReceiver](http://www.codedata.com.tw/mobile/android-6-tutorial-5-1/)
-	*	[(2) 系統通知服務 - Notification](http://www.codedata.com.tw/mobile/android-6-tutorial-5-2/)
-	*	[(3) 設計小工具元件 - AppWidget](http://www.codedata.com.tw/mobile/android-6-tutorial-5-3/)
+	*	(1) 建立廣播接收元件 - BroadcastReceiver
+	*	(2) 系統通知服務 - Notification
+	*	(3) 設計小工具元件 - AppWidget
 *	Android Tutorial 第六堂
-	*	[(1) Material Design - Theme與Transition](http://www.codedata.com.tw/mobile/android-6-tutorial-6-1/)
-	*	[(2) Material Design - RecylerView](http://www.codedata.com.tw/mobile/android-6-tutorial-6-2/)
-	*	[(3) Material Design - Shared Element 與 Floating Action Button](http://www.codedata.com.tw/mobile/android-6-tutorial-6-3/)
+	*	(1) Material Design - Theme與Transition
+	*	(2) Material Design - RecylerView
+	*	(3) Material Design - Shared Element 與 Floating Action Button
 
 ===============
 
