@@ -35,8 +35,8 @@ Android Tutorial using Kotlin系列有六堂課、二十章：
 *	Android Tutorial 第一堂
 	*	[（1）西遊記裡的那隻潑猴](http://www.codedata.com.tw/mobile/atk0101/)
 	*	[（2）準備Android Studio開發環境](http://www.codedata.com.tw/mobile/atk0102/)
-	*	（3）開始設計Android應用程式
-	*	（4）開發Android應用程式的準備工作
+	*	[（3）開始設計Android應用程式](http://www.codedata.com.tw/mobile/atk0103/)
+	*	[（4）開發Android應用程式的準備工作](http://www.codedata.com.tw/mobile/atk0104/)
 *	Android Tutorial 第二堂
 	*	（1）建立應用程式需要的資源
 	*	（2）設計應用程式使用者介面
