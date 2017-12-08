@@ -10,12 +10,12 @@ import android.widget.*
 
 class MainActivity : AppCompatActivity() {
 
-    private var item_list: ListView? = null
-    private var show_app_name: TextView? = null
+    private lateinit var item_list: ListView
+    private lateinit var show_app_name: TextView
 
     private val data = arrayOf("關於Android Tutorial的事情",
             "一隻非常可愛的小狗狗!", "一首非常好聽的音樂！")
-    private var adapter: ArrayAdapter<String>? = null
+    private lateinit var adapter: ArrayAdapter<String>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         val layoutId = android.R.layout.simple_list_item_1
         adapter = ArrayAdapter(this, layoutId, data)
-        item_list!!.adapter = adapter
+        item_list.adapter = adapter
     }
 
     private fun processViews() {
@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // 註冊選單項目點擊監聽物件
-        item_list!!.onItemClickListener = itemListener
+        item_list.onItemClickListener = itemListener
 
         // 建立選單項目長按監聽物件
         val itemLongListener = AdapterView.OnItemLongClickListener {
@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // 註冊選單項目長按監聽物件
-        item_list!!.onItemLongClickListener = itemLongListener
+        item_list.onItemLongClickListener = itemLongListener
 
         // 建立長按監聽物件
         val listener = View.OnLongClickListener {
@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // 註冊長按監聽物件
-        show_app_name!!.setOnLongClickListener(listener)
+        show_app_name.setOnLongClickListener(listener)
     }
 
     // 載入選單資源
