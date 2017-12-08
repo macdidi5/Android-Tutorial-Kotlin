@@ -10,28 +10,21 @@ import android.widget.*
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var item_list: ListView
-    private lateinit var show_app_name: TextView
+    private val item_list : ListView by bind(R.id.item_list)
+    private val show_app_name: TextView by bind(R.id.show_app_name)
 
     private val data = arrayOf("關於Android Tutorial的事情",
             "一隻非常可愛的小狗狗!", "一首非常好聽的音樂！")
-    private lateinit var adapter: ArrayAdapter<String>
+    private val adapter : ArrayAdapter<String>
+        by lazy { ArrayAdapter(this, android.R.layout.simple_list_item_1, data) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        processViews()
         processControllers()
 
-        val layoutId = android.R.layout.simple_list_item_1
-        adapter = ArrayAdapter(this, layoutId, data)
         item_list.adapter = adapter
-    }
-
-    private fun processViews() {
-        item_list = findViewById(R.id.item_list)
-        show_app_name = findViewById(R.id.show_app_name)
     }
 
     private fun processControllers() {
@@ -79,7 +72,6 @@ class MainActivity : AppCompatActivity() {
 
     // 載入選單資源
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        val menuInflater = menuInflater
         menuInflater.inflate(R.menu.menu_main, menu)
         return true
     }
