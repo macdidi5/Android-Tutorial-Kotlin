@@ -128,7 +128,7 @@ class MainActivity : AppCompatActivity() {
     fun aboutApp(view: View) {
         // 建立啟動另一個Activity元件需要的Intent物件
         // 建構式的第一個參數：「this」
-        // 建構式的第二個參數：「Activity元件類別名稱.class」
+        // 建構式的第二個參數：「Activity元件類別名稱::class.java」
         val intent = Intent(this, AboutActivity::class.java)
         // 呼叫「startActivity」，參數為一個建立好的Intent物件
         // 這行敘述執行以後，如果沒有任何錯誤，就會啟動指定的元件

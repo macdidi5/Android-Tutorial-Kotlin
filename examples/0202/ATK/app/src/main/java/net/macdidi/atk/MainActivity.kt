@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         item_list.setAdapter(adapter)
     }
 
-    // 加入載入選單資源的方法
+    // 加入載入選單資源的函式
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
         return true

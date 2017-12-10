@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
-    // 使用者選擇所有的選單項目都會呼叫這個方法
+    // 使用者選擇所有的選單項目都會呼叫這個函式
     fun clickMenuItem(item: MenuItem) {
         // 使用參數取得使用者選擇的選單項目元件編號
         val itemId = item.itemId
@@ -101,7 +101,7 @@ class MainActivity : AppCompatActivity() {
                 .show()
     }
 
-    // 方法名稱與onClick的設定一樣，參數的型態是android.view.View
+    // 函式名稱與onClick的設定一樣，參數的型態是android.view.View
     fun aboutApp(view: View) {
         // 顯示訊息框
         // Context：通常指定為「this」；如果在巢狀類別中使用，要加上這個Activity元件類別的名稱，例如「元件類別名稱.this」

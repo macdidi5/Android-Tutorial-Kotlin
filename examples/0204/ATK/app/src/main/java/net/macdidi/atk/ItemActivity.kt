@@ -23,7 +23,7 @@ class ItemActivity : AppCompatActivity() {
         }
     }
 
-    // 點擊確定與取消按鈕都會呼叫這個方法
+    // 點擊確定與取消按鈕都會呼叫這個函式
     fun onSubmit(view: View) {
         // 確定按鈕
         if (view.id == R.id.ok_item) {
