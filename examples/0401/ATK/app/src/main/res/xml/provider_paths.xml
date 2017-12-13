@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 路徑設定檔資源 -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- external-path：外部儲存設備 -->
+    <!--    name：公開的名稱 -->
+    <!--    path：實際路徑 -->
+    <external-path name="photo_files" path="photo/" />
+    <external-path name="record_files" path="record/" />
+</paths>

@@ -17,7 +17,7 @@ class AboutActivity : Activity() {
 
     // 結束按鈕
     fun clickOk(view: View) {
-        // 呼叫這個方法結束Activity元件
+        // 呼叫這個函式結束Activity元件
         finish()
     }
 
