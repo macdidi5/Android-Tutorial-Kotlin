@@ -148,7 +148,7 @@ class MainActivity : Activity() {
                 intent.putExtra("position", position)
                 intent.putExtra("net.macdidi.atk.Item", item)
 
-                // 改為呼叫這個函式，依照版本啟動Acvitity元件
+                // 改為呼叫這個函式，依照版本啟動Activity元件
                 startActivityForVersion(intent, 1);
             }
         }
@@ -226,7 +226,7 @@ class MainActivity : Activity() {
             R.id.add_item -> {
                 // 使用Action名稱建立啟動另一個Activity元件需要的Intent物件
                 val intent = Intent("net.macdidi.atk.ADD_ITEM")
-                // 改為呼叫這個函式，依照版本啟動Acvitity元件
+                // 改為呼叫這個函式，依照版本啟動Activity元件
                 startActivityForVersion(intent, 0);
             }
             // 取消所有已勾選的項目
@@ -294,7 +294,7 @@ class MainActivity : Activity() {
 
     // 設定
     fun clickPreferences(item: MenuItem) {
-        // 改為呼叫這個函式，依照版本啟動Acvitity元件
+        // 改為呼叫這個函式，依照版本啟動Activity元件
         startActivityForVersion(Intent(this, PrefActivity::class.java))
     }
 
