@@ -40,7 +40,7 @@ Android Tutorial using Kotlin系列有六堂課、二十章：
 *	Android Tutorial 第二堂
 	*	[（1）建立應用程式需要的資源](http://www.codedata.com.tw/mobile/atk0201/)
 	*	[（2）設計應用程式使用者介面](http://www.codedata.com.tw/mobile/atk0202/)
-	*	（3）應用程式與使用者的互動
+	*	[（3）應用程式與使用者的互動](http://www.codedata.com.tw/mobile/atk0203/)
 	*	（4）建立與使用Activity元件
 *	Android Tutorial 第三堂
 	*	（1）為ListView元件建立自定畫面
