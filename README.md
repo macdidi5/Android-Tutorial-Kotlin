@@ -48,15 +48,15 @@ Android Tutorial using Kotlin系列有六堂課、二十章：
 	*	[（3）使用Android內建的SQLite資料庫](http://www.codedata.com.tw/mobile/atk0303/)
 *	Android Tutorial 第四堂
 	*	[（1）使用照相機與麥克風](http://www.codedata.com.tw/mobile/atk0401/)
-	*	[（2）設計地圖應用程式 - Google Maps Android API v2(http://www.codedata.com.tw/mobile/atk0402/)
-	*	（3）讀取裝置目前的位置 - Google Services Location
+	*	[（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/atk0402/)
+	*	[（3）讀取裝置目前的位置 - Google Services Location](http://www.codedata.com.tw/mobile/atk0403/)
 *	Android Tutorial 第五堂
-	*	(1) 建立廣播接收元件 - BroadcastReceiver
-	*	(2) 系統通知服務 - Notification
-	*	(3) 設計小工具元件 - AppWidget
+	*	[(1) 建立廣播接收元件 - BroadcastReceiver](http://www.codedata.com.tw/mobile/atk0501/)
+	*	[(2) 系統通知服務 - Notification](http://www.codedata.com.tw/mobile/atk0502/)
+	*	[(3) 設計小工具元件 - AppWidget](http://www.codedata.com.tw/mobile/atk0503/)
 *	Android Tutorial 第六堂
-	*	(1) Material Design - Theme與Transition
-	*	(2) Material Design - RecylerView
+	*	[(1) Material Design - Theme與Transition](http://www.codedata.com.tw/mobile/atk0601/)
+	*	[(2) Material Design - RecylerView](http://www.codedata.com.tw/mobile/atk0602/)
 	*	(3) Material Design - Shared Element 與 Floating Action Button
 
 ===============
