@@ -57,7 +57,7 @@ Android Tutorial using Kotlin系列有六堂課、二十章：
 *	Android Tutorial 第六堂
 	*	[(1) Material Design - Theme與Transition](http://www.codedata.com.tw/mobile/atk0601/)
 	*	[(2) Material Design - RecylerView](http://www.codedata.com.tw/mobile/atk0602/)
-	*	(3) Material Design - Shared Element 與 Floating Action Button
+	*	[(3) Material Design - Shared Element 與 Floating Action Button](http://www.codedata.com.tw/mobile/atk0603/)
 
 ===============
 
